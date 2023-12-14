@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanvir Rahman
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... csharp
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Software development
+- 🌱 I’m currently learning ... Csharp,Python,Data Analytics and Machine Learning
+- 💞️ I’m looking to collaborate on ... Data Analytics Project
 
 
 <!---
